@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="220" viewBox="0 0 640 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1b2f"/>
+      <stop offset="1" stop-color="#3a3a8f"/>
+    </linearGradient>
+  </defs>
+  <a xlink:href="https://storage.googleapis.com/gogglecloud/index.html" href="https://storage.googleapis.com/gogglecloud/index.html" target="_blank" style="cursor:pointer">
+    <rect width="640" height="220" rx="22" fill="url(#bg)"/>
+    <text x="40" y="62" font-family="monospace" font-size="14" letter-spacing="4" fill="#9aa0ff">CLICK TO OPEN</text>
+    <text x="40" y="118" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff">storage.googleapis.com</text>
+    <text x="40" y="156" font-family="monospace" font-size="16" fill="#c8c9ee">/gogglecloud/index.html</text>
+    <rect x="40" y="172" width="120" height="8" rx="4" fill="#7c7cff"/>
+    <text x="590" y="190" font-family="Arial, sans-serif" font-size="40" fill="#ffffff" text-anchor="end">→</text>
+  </a>
+</svg>
